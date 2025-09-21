@@ -1,9 +1,9 @@
 export default function Team() {
   const members = [
-    { name: "Jane Cooper", role: "Developer", image: "/team-1.jpg" },
-    { name: "Brooklyn Simmons", role: "Designer", image: "/team-2.jpg" },
-    { name: "Guy Hawkins", role: "Marketer", image: "/team-3.jpg" },
-    { name: "Kristin Watson", role: "Photographer", image: "/team-4.jpg" },
+    { name: "Jane Cooper", role: "Developer", image: "/Team1.jpg" },
+    { name: "Brooklyn Simmons", role: "Designer", image: "/Team2.jpg" },
+    { name: "Guy Hawkins", role: "Marketer", image: "/Team3.png" },
+    { name: "Kristin Watson", role: "Photographer", image: "/Team4.png" },
   ];
 
   return (
