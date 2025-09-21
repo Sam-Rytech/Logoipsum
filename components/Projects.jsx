@@ -1,8 +1,8 @@
 export default function Projects() {
   const projects = [
-    { title: "Medical Website", image: "/proj-1.jpg" },
-    { title: "Cryptocurrency Website", image: "/proj-2.jpg" },
-    { title: "Bitcoin Investment Web", image: "/proj-3.jpg" },
+    { title: "Medical Website", image: "/P1.png" },
+    { title: "Cryptocurrency Website", image: "/P2.png" },
+    { title: "Bitcoin Investment Web", image: "/P3.png" },
   ];
 
   return (
