@@ -4,7 +4,7 @@ export default function About() {
       <div className="grid items-center grid-cols-1 gap-10 px-4 mx-auto max-w-7xl md:grid-cols-2">
         <div className="flex justify-center">
           <img
-            src="/about.png"
+            src="/AboutI.png"
             alt="About"
             className="w-full h-auto max-w-md"
           />
